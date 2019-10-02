@@ -2,4 +2,5 @@
 Cel zajęć:
  Wprowadzenie do przedmiotu
  Zapoznanie się wybranym środowiskiem kontroli wersjia
- Adaptacja ze środowiskiem Android Studio
+
+1565
